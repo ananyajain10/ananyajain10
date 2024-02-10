@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANANYA JAIN</h1>
 <h3 align="center">A TECH ENTHUSIAST</h3>
 
-- 🌱 I’m exploring **WEB3**
+
 
 - 👯 I’m looking to collaborate on **HACKATHONS, OPEN SOURCE**
 
